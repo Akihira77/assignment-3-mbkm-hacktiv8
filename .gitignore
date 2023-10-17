@@ -1,0 +1,5 @@
+.env
+.env.test
+node_modules
+__test__
+jest.config.cjs
